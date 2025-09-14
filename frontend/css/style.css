@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background: #fdf6e3;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #b22222;
+}
+
+#gameCanvas {
+  border: 2px solid black;
+  background: lightgreen;
+}
+
+#scoreBoard {
+  margin-top: 20px;
+}
+
+#scoresList {
+  list-style: none;
+  padding: 0;
+}
